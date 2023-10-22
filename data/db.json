@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "name": "omar",
+      "email": "omar@test.com",
+      "password": "test1234",
+      "id": 1
+    },
+    {
+      "name": "ayman",
+      "email": "ayman@test.com",
+      "password": "test1234",
+      "id": 2
+    }
+  ],
+  "resturant": [
+    {
+      "name": "Star Bucks",
+      "address": "Sporting",
+      "contact": "0122",
+      "id": 3
+    }
+  ]
+}
